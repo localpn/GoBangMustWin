@@ -6,6 +6,7 @@ public class Chess implements Comparable<Chess> {
 	protected int x;
 	protected int y;
 	protected int color;//Âä×Ó
+	protected int score;
 
 
 	public Chess(int x, int y, int color) {
